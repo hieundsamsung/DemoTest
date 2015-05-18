@@ -11,6 +11,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
 public class Frame extends JFrame {
+	public int a;
 	private JFrame frame;
 	private JButton btn1,btn2,exit;
 	private JPanel panel;
