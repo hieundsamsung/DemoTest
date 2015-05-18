@@ -54,7 +54,7 @@ public class Frame extends JFrame {
 			}
 		});
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setSize(300,150);
+		setSize(300,200);
 		setVisible(true);
 	}
 	
